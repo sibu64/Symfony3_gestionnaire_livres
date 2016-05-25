@@ -1,0 +1,3 @@
+oc_site_homepage:
+    path:     /
+    defaults: { _controller: OCSiteBundle:Default:index }

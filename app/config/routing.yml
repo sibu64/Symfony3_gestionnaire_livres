@@ -1,0 +1,4 @@
+oc_site:
+    resource: "@OCSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
